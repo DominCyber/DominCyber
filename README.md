@@ -24,7 +24,7 @@ My journey in the defense intelligence and technology fields has led me to devel
 
 ### Firewall
 <div>
-    <img src="https://img.shields.io/badge/-pfSense-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-00A4EF?&style=for-the-badge&logo=pfSense&logoColor=white" />
 </div>
 
 ### SIEM
