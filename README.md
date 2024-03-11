@@ -1,9 +1,6 @@
-### Hi there 👋
-# Hello, I'm CHANGEME
+### Hi, I'm Manuel
 <a href="www.linkedin.com/in/manuel-dominguez-70488b290
 "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-## Brief
 
 I am Navy Vet who recently graduated with a bachelors in cybersecurity. I have a profound intrique in finding infosec exploits and how to mitgate them.
 
