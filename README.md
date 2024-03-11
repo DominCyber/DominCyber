@@ -34,7 +34,7 @@ My journey in the defense intelligence and technology fields has led me to devel
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CEH-006400?&style=for-the-badge&logo=ECC&logoColor=white" />
+<img src="https://img.shields.io/badge/-CEH-006400?&style=for-the-badge&logo=EC&logoColor=white" />
 </div>
 
 ## Projects
