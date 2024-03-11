@@ -36,7 +36,7 @@ My journey in the defense intelligence and technology fields has led me to devel
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CEH-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CEH-006400?&style=for-the-badge&logo=ECCouncil&logoColor=white" />
 </div>
 
 ## Projects
