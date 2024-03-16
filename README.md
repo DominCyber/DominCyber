@@ -39,8 +39,6 @@ My journey in the defense intelligence and technology fields has led me to devel
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CEH-006400?&style=for-the-badge&logo=EC&logoColor=white" />
 </div>
-
-## Projects
 <!--
 **DominCyber/DominCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
