@@ -8,7 +8,7 @@ Additionally, I want to pursue my fascination in technical nuances; I see a para
 
 ## Objective
 
-My journey in the defense intelligence and technology fields has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in the defense intelligence and technology fields has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a cybersecurity analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -16,6 +16,7 @@ My journey in the defense intelligence and technology fields has led me to devel
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |HTML5, CSS, JavaScript                         |Basic HTML5 Webpage         |
+|Python                                         |Python                      |
 
 ## Tools
 
