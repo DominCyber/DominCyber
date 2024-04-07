@@ -16,7 +16,7 @@ My journey in the defense intelligence and technology fields has led me to devel
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |HTML5, CSS, JavaScript                         |Basic HTML5 Webpage         |
-|Python                                         |Python                      |
+|Python Programming                             |Python GUI Guessing Game    |
 
 ## Tools
 
