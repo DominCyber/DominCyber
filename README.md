@@ -4,6 +4,7 @@ I am a senior intelligence analyst with 16 years of intelligence analysis experi
 
 Additionally, I want to pursue my fascination in technical nuances; I see a parallel between threat signal analysis and cyber threat analysis.
 
+This github account is used as a professional portfolio, which is regularly updated.
 ## Objective
 
 My journey in the defense intelligence and technology fields has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a cybersecurity analyst.
