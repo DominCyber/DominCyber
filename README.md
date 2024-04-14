@@ -10,12 +10,20 @@ This github account is used as a professional portfolio, which is regularly upda
 My journey in the defense intelligence and technology fields has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a cybersecurity analyst.
 
 ## Skills
-| Skill                                         | Associated Project                     |
-|-----------------------------------------------|----------------------------------------|
-|HTML5, CSS, JavaScript                         |Basic HTML5 Webpage                     |
-|Python Programming                             |Python GUI Guessing Game                |
-|Python for Cybersecurity Tasks                 |Automate Cybersecurity Tasks with Python|
+| Skill                                               | Associated Project                                               |
+|-----------------------------------------------------|------------------------------------------------------------------|
+|HTML5, CSS, JavaScript                               |HTML5 Webpage Fundamentals                                        |
+|Python Programming                                   |Python-Programming-Fundamentals-GUI-Guessing-Game                 |
+|Python for Cybersecurity Tasks                       |Automate Cybersecurity Tasks with Python                          |
+|Linux CLI Commands                                   |Linux CLI Fundamentals                                            |
+|Vulnerability Scanning                               |Scanning an Active Directory Domain Controller for Vulnerabilities|
+|Active Directory                                     |Scanning an Active Directory Domain Controller for Vulnerabilities|
+|Nmap                                                 |Scanning an Active Directory Domain Controller for Vulnerabilities|
+|Zenmap                                               |Scanning an Active Directory Domain Controller for Vulnerabilities|
+|Nessus                                               |Scanning an Active Directory Domain Controller for Vulnerabilities|               
+|PowerShell                                           |Scanning an Active Directory Domain Controller for Vulnerabilities|
 
+-CVE threat assessment
 ## Tools
 
 ### Network
