@@ -13,7 +13,7 @@ My journey in the defense intelligence and technology fields has led me to devel
 | Skill                                               | Associated Project                                               |
 |-----------------------------------------------------|------------------------------------------------------------------|
 |HTML5, CSS, JavaScript                               |HTML5 Webpage Fundamentals                                        |
-|Python Programming                                   |Python-Programming-Fundamentals-GUI-Guessing-Game                 |
+|Python Programming                                   |Python Programming Fundamentals GUI Guessing-Game                 |
 |Python for Cybersecurity Tasks                       |Automate Cybersecurity Tasks with Python                          |
 |Linux CLI Commands                                   |Linux CLI Fundamentals                                            |
 |Vulnerability Scanning                               |Scanning an Active Directory Domain Controller for Vulnerabilities|
