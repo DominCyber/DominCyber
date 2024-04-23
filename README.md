@@ -22,8 +22,15 @@ My journey in the defense intelligence and technology fields has led me to devel
 |Zenmap                                               |Scanning an Active Directory Domain Controller for Vulnerabilities|
 |Nessus                                               |Scanning an Active Directory Domain Controller for Vulnerabilities|               
 |PowerShell                                           |Scanning an Active Directory Domain Controller for Vulnerabilities|
+|CVE threat assessment                                |Scanning an Active Directory Domain Controller for Vulnerabilities|
+|Linux CLI Commands for Encyption                     |Linux CLI Decrypt an Encrypted Message                            |
+|Linux CLI Commands for Access Control Admin          |Add and Manage Users with Linux Commands                          |
+|Phishing Analysis                                    |Phishing Analysis - Manual Artifact Extraction                    |
+|Thunderbird Mailing Service                          |Phishing Analysis - Manual Artifact Extraction                    |
+|Sublime 3 Text Editor                                |Phishing Analysis - Manual Artifact Extraction                    |
+|PowerShell                                           |Phishing Analysis - Manual Artifact Extraction                    |
 
--CVE threat assessment
+
 ## Tools
 
 ### Network
