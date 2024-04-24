@@ -1,6 +1,6 @@
 ### Hi, I'm Manuel
 
-I am a senior intelligence analyst with 15 years of intelligence analysis experience. Additionally, I have 9 years of IT experience as a database manager. Overall, my background consists of serving in both the United States Navy and the Intelligence Community. I am continuing my defense oriented-career into the cybersecurity realm, determined to myself a more well-rounded security professional. 
+I am a senior intelligence analyst with 15 years of intelligence analysis experience. Additionally, I have 9 years of IT experience as a database manager. Overall, my background consists of serving in both the United States Navy and the Intelligence Community. I am continuing my defense oriented-career into the cybersecurity realm, determined to make myself a more well-rounded security professional. 
 
 Additionally, I want to pursue my fascination of technical nuances; I see a parallel between threat signal analysis and cyber threat analysis.
 
