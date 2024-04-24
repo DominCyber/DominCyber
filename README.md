@@ -17,18 +17,18 @@ My journey in the defense intelligence and information technology/security field
 |Linux CLI Commands                                   |Linux CLI Fundamentals                                            |
 |Vulnerability Scanning                               |Scanning an Active Directory Domain Controller for Vulnerabilities|
 |Active Directory                                     |Scanning an Active Directory Domain Controller for Vulnerabilities|
-|Nmap                                                 |Scanning an Active Directory Domain Controller for Vulnerabilities|
-|Zenmap                                               |Scanning an Active Directory Domain Controller for Vulnerabilities|
-|Nessus                                               |Scanning an Active Directory Domain Controller for Vulnerabilities|               
-|PowerShell                                           |Scanning an Active Directory Domain Controller for Vulnerabilities|
+|Nmap CLI                                             |Scanning an Active Directory Domain Controller for Vulnerabilities|
+|Zenmap GUI                                           |Scanning an Active Directory Domain Controller for Vulnerabilities|
+|Nessus GUI                                           |Scanning an Active Directory Domain Controller for Vulnerabilities|               
+|PowerShell CLI                                       |Scanning an Active Directory Domain Controller for Vulnerabilities|
 |CVE threat assessment                                |Scanning an Active Directory Domain Controller for Vulnerabilities|
 |Linux CLI Commands for Encyption                     |Linux CLI Decrypt an Encrypted Message                            |
 |Linux CLI Commands for Access Control Admin          |Add and Manage Users with Linux Commands                          |
 |Phishing Analysis                                    |Phishing Analysis - Manual Artifact Extraction                    |
 |Thunderbird Mailing Service                          |Phishing Analysis - Manual Artifact Extraction                    |
 |Sublime 3 Text Editor                                |Phishing Analysis - Manual Artifact Extraction                    |
-|PowerShell                                           |Phishing Analysis - Manual Artifact Extraction                    |
-|WireShark                                            |Analyzing Packet Captures                                         |
+|PowerShell CLI                                       |Phishing Analysis - Manual Artifact Extraction                    |
+|WireShark GUI                                        |Analyzing Packet Captures                                         |
 
 
 ## Tools
