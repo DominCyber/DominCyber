@@ -1,12 +1,11 @@
 ### Hi, I'm Manuel
-
 I am a cybersecurity analyst and senior database manager with 15 years of information technology, information security, and intelligence analysis. Overall, my background consists of serving in both the United States Navy and the Intelligence Community. I am continuing my defense oriented-career into the cybersecurity realm, determined to make myself a more well-rounded security professional. 
 
 Additionally, I want to pursue my fascination of technical nuances; I see a parallel between threat signal analysis and cyber threat analysis.
 
 This github account is used as a professional portfolio, which is updated regularly.
-## Objective
 
+## Objective
 My journey in the defense intelligence and information technology/security fields has led me to develop a passion for cybersecurity, and I am eager to transition into this field, specifically aiming to continue as a cybersecurity analyst.
 
 ## Skills
@@ -52,6 +51,7 @@ System
 </div>
 Network
 <div>
+<img src="https://img.shields.io/badge/-Nessus-339933?style=for-the-badge&logo=Nessus&logoColor=white" />
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" />
 <img src="https://img.shields.io/badge/-Zenmap-000000?&style=for-the-badge&logo=Zenmap&logoColor=white" />
