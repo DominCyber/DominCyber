@@ -34,10 +34,10 @@ My journey in the defense intelligence and information technology/security field
 ## Tools
 Programming languages
 <div>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 </div>
 OS
 <div>
@@ -46,6 +46,7 @@ OS
 </div>
 System
 <div>
+<img src="https://img.shields.io/badge/-Active%20Directory-0052CC?style=for-the-badge&logo=Active%20Directory&logoColor=white" />
 <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux%20CLI-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
 </div>
