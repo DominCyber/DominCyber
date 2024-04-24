@@ -46,15 +46,10 @@ My journey in the defense intelligence and information technology/security field
 <img src="https://img.shields.io/badge/-Zenmap-000000?&style=for-the-badge&logo=Zenmap&logoColor=white" />
 
 ### Firewall
-<div>
-    <img src="https://img.shields.io/badge/-pfSense-00A4EF?&style=for-the-badge&logo=pfSense&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/-pfSense-00A4EF?&style=for-the-badge&logo=pfSense&logoColor=white" />
 
 ### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-FF0000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
-
+<img src="https://img.shields.io/badge/-Splunk-FF0000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
