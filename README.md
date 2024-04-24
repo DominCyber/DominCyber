@@ -40,6 +40,7 @@ OS
 System
 <div>
 <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux%20CLI-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
 </div>
 Network
 <div>
