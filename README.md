@@ -28,6 +28,7 @@ My journey in the defense intelligence and information technology/security field
 |Thunderbird Mailing Service                          |Phishing Analysis - Manual Artifact Extraction                    |
 |Sublime 3 Text Editor                                |Phishing Analysis - Manual Artifact Extraction                    |
 |PowerShell                                           |Phishing Analysis - Manual Artifact Extraction                    |
+|WireShark                                            |Analyzing Capture Packets                                         |
 
 
 ## Tools
