@@ -1,13 +1,13 @@
 ### Hi, I'm Manuel
 
-I am a senior intelligence analyst with 15 years of intelligence analysis experience. Additionally, I have 9 years of IT experience as a database manager. Overall, my background consists of serving in both the United States Navy and the Intelligence Community. I am continuing my defense oriented-career into the cybersecurity realm, determined to make myself a more well-rounded security professional. 
+I am a cybersecurity analyst and senior database manager with 15 years of information technology, information security, and intelligence analysis. Overall, my background consists of serving in both the United States Navy and the Intelligence Community. I am continuing my defense oriented-career into the cybersecurity realm, determined to make myself a more well-rounded security professional. 
 
 Additionally, I want to pursue my fascination of technical nuances; I see a parallel between threat signal analysis and cyber threat analysis.
 
-This github account is used as a professional portfolio, which is regularly updated.
+This github account is used as a professional portfolio, which is updated regularly.
 ## Objective
 
-My journey in the defense intelligence and technology fields has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a cybersecurity analyst.
+My journey in the defense intelligence and information technology/security fields has led me to develop a passion for cybersecurity, and I am eager to transition into this field, specifically aiming to continue as a cybersecurity analyst.
 
 ## Skills
 | Skill                                               | Associated Project                                               |
@@ -52,6 +52,7 @@ My journey in the defense intelligence and technology fields has led me to devel
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CEH-006400?&style=for-the-badge&logo=EC&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-blue />
 </div>
 <!--
 **DominCyber/DominCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
