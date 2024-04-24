@@ -38,19 +38,19 @@ My journey in the defense intelligence and information technology/security field
 <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=lightblue" />
 <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
 </div>
-### System 
+System 
 <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
-### Network
+Network
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" />
 <img src="https://img.shields.io/badge/-Zenmap-000000?&style=for-the-badge&logo=Zenmap&logoColor=white" />
 </div>
-### Firewall
+Firewall
 <img src="https://img.shields.io/badge/-pfSense-00A4EF?&style=for-the-badge&logo=pfSense&logoColor=white" />
-### SIEM
+SIEM
 <img src="https://img.shields.io/badge/-Splunk-FF0000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-## Certifications
+Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CEH-006400?&style=for-the-badge&logo=EC&logoColor=white" />
