@@ -3,7 +3,7 @@ I am a cybersecurity analyst and senior database manager with 15 years of inform
 
 Additionally, I want to pursue my fascination of technical nuances; I see a parallel between threat signal analysis and cyber threat analysis.
 
-This github account is used as a professional portfolio, which is updated regularly.
+This github account is used as a professional portfolio, which is regularly updated.
 
 ## Objective
 My journey in the defense intelligence and information technology/security fields has led me to develop a passion for cybersecurity, and I am eager to transition into this field, specifically aiming to continue as a cybersecurity analyst.
