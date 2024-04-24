@@ -33,6 +33,10 @@ My journey in the defense intelligence and information technology/security field
 
 ## Tools
 
+### OS
+<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=white" />
+
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
