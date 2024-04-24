@@ -34,6 +34,7 @@ My journey in the defense intelligence and information technology/security field
 ## Tools
 
 ### OS
+<img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=lightblue" />
 <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
 
 ### Network
