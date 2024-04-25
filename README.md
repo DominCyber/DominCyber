@@ -24,10 +24,11 @@ My journey in the defense intelligence and information technology/security field
 |CVE threat assessment                                |Scanning an Active Directory Domain Controller for Vulnerabilities|
 |Linux CLI Commands for Encyption                     |Linux CLI Decrypt an Encrypted Message                            |
 |Linux CLI Commands for Access Control Admin          |Add and Manage Users with Linux Commands                          |
-|Phishing Analysis                                    |Phishing Analysis - Manual Artifact Extraction                    |
-|Thunderbird Mailing Service                          |Phishing Analysis - Manual Artifact Extraction                    |
-|Sublime 3 Text Editor                                |Phishing Analysis - Manual Artifact Extraction                    |
-|PowerShell CLI                                       |Phishing Analysis - Manual Artifact Extraction                    |
+|Email Manual Artifact Extraction                     |Phishing Analysis                                                 |
+|Attachment Hash Analysis                             |Phishing Analysis                                                 |
+|Sublime 3 Text Editor                                |Phishing Analysis                                                 |
+|PowerShell CLI                                       |Phishing Analysis                                                 |
+|Crediental Harvester Analysis                        |Phishing Analysis                                                 |
 |WireShark GUI                                        |Analyzing Packet Captures                                         |
 
 
