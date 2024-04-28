@@ -29,7 +29,8 @@ My journey in the defense intelligence and information technology/security field
 |Sublime 3 Text Editor                                |Phishing Analysis                                                 |
 |PowerShell CLI                                       |Phishing Analysis                                                 |
 |Crediental Harvester Analysis                        |Phishing Analysis                                                 |
-|WireShark GUI                                        |Analyzing Packet Captures                                         |
+|WireShark GUI                                        |Capturing Network Packets                                         |
+|TCPDump CLI                                          |Analyzing Packet Captures                                         |
 |NetScanTools Pro GUI                                 |Scanning Networks                                                 |
 |Nmap CLI                                             |Scanning Networks                                                 |
 |Zenmap GUI                                           |Scanning Networks                                                 |
