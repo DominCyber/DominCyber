@@ -30,6 +30,13 @@ My journey in the defense intelligence and information technology/security field
 |PowerShell CLI                                       |Phishing Analysis                                                 |
 |Crediental Harvester Analysis                        |Phishing Analysis                                                 |
 |WireShark GUI                                        |Analyzing Packet Captures                                         |
+|NetScanTools Pro GUI                                 |Scanning Networks                                                 |
+|Nmap CLI                                             |Scanning Networks                                                 |
+|Zenmap GUI                                           |Scanning Networks                                                 |
+|WireShark GUI                                        |Scanning Networks                                                 |
+|Hping3 CLI                                           |Scanning Networks                                                 |
+|Metasploit CLI                                       |Scanning Networks                                                 |
+
 
 
 ## Tools
