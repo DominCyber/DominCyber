@@ -9,9 +9,9 @@ This github account is used as a professional portfolio, which is regularly upda
 My journey in the defense intelligence and information technology/security fields has led me to develop a passion for cybersecurity, and I am eager to transition into this field, specifically aiming to continue as a cybersecurity analyst.
 
 ## Skills
-|Associated Project                         |Skills                                                                                                       |Tools                                                     
+|Associated Project                        |Skills                                                                                                        |Tools                                                     
            |
-|-------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+|------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 |Baseline Testing - Reverse Shell Detection|Networking architecture, ports, and protocols, system operability log aggregation, cyber kill chain procedures| Nmap CLI, Metasploit CLI Python3 script, Wireshark, Windows CLI|  
 
 
