@@ -9,36 +9,10 @@ This github account is used as a professional portfolio, which is regularly upda
 My journey in the defense intelligence and information technology/security fields has led me to develop a passion for cybersecurity, and I am eager to transition into this field, specifically aiming to continue as a cybersecurity analyst.
 
 ## Skills
-| Skill                                                                | Associated Project                                                        |
-|----------------------------------------------------------------------|---------------------------------------------------------------------------|
-|Networking and Protocols, Log aggregation, Cyber kill chain procedures                                 |Baseline Testing - Reverse Shell Detection|  
-|HTML5, CSS, JavaScript                               |HTML5 Webpage Fundamentals                                                                  |
-|Python Programming                                   |Python Programming Fundamentals - GUI Guessing Game                                         |
-|Python for Cybersecurity Tasks                       |Automate Cybersecurity Tasks with Python                                                    |
-|Linux CLI Commands                                   |Linux CLI Fundamentals                                                                      |
-|Vulnerability Scanning                               |Scanning an Active Directory Domain Controller for Vulnerabilities                          |
-|Active Directory                                     |Scanning an Active Directory Domain Controller for Vulnerabilities                          |
-|Nmap CLI                                             |Scanning an Active Directory Domain Controller for Vulnerabilities                          |
-|Zenmap GUI                                           |Scanning an Active Directory Domain Controller for Vulnerabilities                          |
-|Nessus GUI                                           |Scanning an Active Directory Domain Controller for Vulnerabilities                          |               
-|PowerShell CLI                                       |Scanning an Active Directory Domain Controller for Vulnerabilities                          |
-|CVE threat assessment                                |Scanning an Active Directory Domain Controller for Vulnerabilities                          |
-|Linux CLI Commands for Encyption                     |Linux CLI Decrypt an Encrypted Message                                                      |
-|Linux CLI Commands for Access Control Admin          |Add and Manage Users with Linux Commands                                                    |
-|Email Manual Artifact Extraction                     |Phishing Analysis                                                                           |
-|Attachment Hash Analysis                             |Phishing Analysis                                                                           |
-|Sublime 3 Text Editor                                |Phishing Analysis                                                                           |
-|PowerShell CLI                                       |Phishing Analysis                                                                           |
-|Crediental Harvester Analysis                        |Phishing Analysis                                                                           |
-|WireShark GUI                                        |Capturing Network Packets                                                                   |
-|TCPDump CLI                                          |Analyzing Packet Captures                                                                   |
-|NetScanTools Pro GUI                                 |Scanning Networks                                                                           |
-|Nmap CLI                                             |Scanning Networks                                                                           |
-|Zenmap GUI                                           |Scanning Networks                                                                           |
-|WireShark GUI                                        |Scanning Networks                                                                           |
-|Hping3 CLI                                           |Scanning Networks                                                                           |
-|Metasploit CLI                                       |Scanning Networks                                                                           |
-
+|Associated Project                         |Skills                                                                                                       |Tools                                                     
+           |
+|-------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+|Baseline Testing - Reverse Shell Detection|Networking architecture, ports, and protocols, system operability log aggregation, cyber kill chain procedures| Nmap CLI, Metasploit CLI Python3 script, Wireshark, Windows CLI|  
 
 
 ## Tools
