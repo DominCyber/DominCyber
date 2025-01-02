@@ -1,12 +1,11 @@
 ### Hi, I'm Manuel
-I am a cybersecurity analyst and senior database manager with 15 years of information technology, information security, and intelligence analysis. Overall, my background consists of serving in both the United States Navy and the Intelligence Community. I am continuing my defense oriented-career into the cybersecurity realm, determined to make myself a more well-rounded security professional. 
+I am a Navy Veteran and aspiring Cybersecurity Analyst. With my technical persistence and personable attitude, I have established many mutual relationships within the information security and intelligence analysis realms. With a proven track record of providing hypercompetent technical and analytical support, I have ensured the safety and integrity of both life and data, be it for war-fighters or normal citizens.
 
-Additionally, I want to pursue my fascination of technical nuances; I see a parallel between threat signal analysis and cyber threat analysis.
+As a recent Cybersecurity graduate, I am continuing my defense oriented-career into the cyber realm, determined to make myself a more well-rounded security professional. 
+
+Personally, I find a fascination in solving complex technical and cryptographic problems, which cyber seems to be the perfect gift that keeps on giving.
 
 This github account is used as a professional portfolio, which is regularly updated.
-
-## Objective
-My journey in the defense intelligence and information technology/security fields has led me to develop a passion for cybersecurity, and I am eager to transition into this field, specifically aiming to continue as a cybersecurity analyst.
 
 ## Skills
 
